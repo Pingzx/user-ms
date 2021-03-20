@@ -8,4 +8,5 @@
 - vue Router 实现页面导航
 - Mockjs 模拟用户信息的增删改查
 - Vue Resource 实现数据的请求
-- 测试 ssh_key
+
+> 小 demo 仅为测试 mockjs
