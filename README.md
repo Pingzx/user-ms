@@ -8,5 +8,5 @@
 - vue Router 实现页面导航
 - Mockjs 模拟用户信息的增删改查
 - Vue Resource 实现数据的请求
-- ceishi
+- ceishia
 > 小 demo 仅为测试 mockjs,测试 sshkey
